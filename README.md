@@ -44,5 +44,5 @@
 ## <font color = #F2B138 >*Tecnologias:* </font>
 
 
-<a href = 'https://www.postgresql.org/'><img src ='https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png' width = '50'/></a> 
+<a href = 'https://dbeaver.io/'><img src ='https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png' width = '50'/></a> 
 <a href = 'https://www.postgresql.org/'><img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png' width = '50'/>
